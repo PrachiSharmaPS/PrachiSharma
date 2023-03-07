@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m interested in Back-end Development<br><br>🌱 I’m currently learning Node.js,MongoDB,Express.js, Mongoose etc..<br><br>👨‍💻 All of my projects are available at https://github.com/PrachiSharmaPS<br><br>💬 Ask me about Node.js ,JavaScript , MongoDB,Express.js, Mongoose ,Git<br><br>📫 How to reach me prachisharma.ps01@gmail.com
+🔭 I’m interested in Back-end Development<br><br>🌱 I’m currently learning Node.js, MongoDB,Express.js, Mongoose etc..<br><br>👨‍💻 All of my projects are available at https://github.com/PrachiSharmaPS<br><br>💬 Ask me about Node.js ,JavaScript , MongoDB,Express.js, Mongoose ,Git<br><br>📫 How to reach me prachisharma.ps01@gmail.com
 
 
 ## 🌐 Socials:
